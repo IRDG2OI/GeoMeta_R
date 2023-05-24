@@ -1,4 +1,4 @@
-# library(tools)
+library(tools)
 library(utils)
 #execute script for each project
 
@@ -13,7 +13,7 @@ data_dir <- "/home/namik/Bureau/sey_msp_atlas_base_map_layers" #"/home/namik/wor
 
 
 # Define project name 
-project_name <- "Base map"
+project_name <-"Base map"
 generic_sub_str <- c("sey_msp_", "seymsp_")  # If your file have a radical you wants to remove
 
 
@@ -38,36 +38,47 @@ if (!dir.exists(temp_zip_file)) {
 #   |==> if shp then zip the files 
 
 
+# set metadata file name
+metadata_file_name <- paste0("metadata_", project_name, ".csv")
 
 
-print(file_list)
-
-
-create_metadata_csv <- function(project_name) {
-        # set file name
-        dc_file_name <- paste0("metadata_", project_name, ".csv")
+create_metadata_csv <- function(csv_file_name) {
         # list of DublinCore fields
-        fields <-c("Identifier", 
-        "Title", 
-        "Description", 
-        "Subject", 
-        "Creator", 
-        "Date",
-        "Type",
-        "Language", 
-        "SpatialCoverage",
-        "TemporalCoverage",
-        "Format",
-        "Relation",
-        "Rights",
-        "Provenance",
-        "Data")
+        fields <-data.frame(Identifier = character(), 
+                            Title = character(),
+                            Description = character(), 
+                            Subject = character(),
+                            Creator= character(), 
+                            Date= character(),
+                            Type= character(),
+                            Language= character(), 
+                            SpatialCoverage= character(),
+                            TemporalCoverage= character(),
+                            Format= character(),
+                            Relation= character(),
+                            Rights= character(),
+                            Provenance= character(),
+                            Data= character(), 
+                            stringsAsFactors = FALSE)
 
-    write.csv(data.frame(t(fields)), file = dc_file_name, row.names = FALSE) 
+    write.csv(fields, csv_file_name, row.names = FALSE)
+}
+
+initialize_csv <- function(csv_file_name) {
+  # create a data frame with three empty columns
+  df <- data.frame(toto = character(),
+                   tata = character(),
+                   titi = character(),
+                   stringsAsFactors = FALSE)
+  
+  # write the data frame to a CSV file
+  write.csv(df, file = csv_file_name, row.names = FALSE)
 }
 
 
 # output
-
+create_metadata_csv(metadata_file_name)
+#initialize_csv("mon_fichier.csv")
 # zip_files_by_name(data_dir)
 # print(get_file_name(data_dir, FALSE))
+
