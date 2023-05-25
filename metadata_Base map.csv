@@ -1,1 +1,196 @@
 "Identifier","Title","Description","Subject","Creator","Date","Type","Language","SpatialCoverage","TemporalCoverage","Format","Relation","Rights","Provenance","Data"
+"id:basemap_200m_contour","basemap 200m contour","basemap 200m contour","theme[General]:basemap 200m contour_
+theme[Area]:SWIO, Indian Ocean, océan Indien, Seychelles","owner:j.prosper@env.gov.sc_
+publisher:j.prosper@env.gov.sc_
+originator:j.prosper@env.gov.sc_
+pointOfContact:j.prosper@env.gov.sc_
+metadata:namik.scherzl@ird.fr","","dataset","eng","","","","thumbnail:thumbnail data@https://drive.ird.fr/apps/files_sharing/publicpreview/7FNMG5TP4reW9xW?x=1920&y=618&a=true&file=seychelles.png&scalingup=0_
+thumbnail:thumbnail data@https://drive.ird.fr/apps/files_sharing/publicpreview/ooDzWPi9DR2nYFd?x=1920&y=618&a=true&file=Seychelles2.png&scalingup=0","use:NA","statement:the data is distributed in shapefiles format. It is an extraction from a GBD database","access:default_
+source:basemap_200m_contour.zip@/home/namik/Bureau/sey_msp_atlas_base_map_layers/basemap_200m_contour.cpg_
+sourceType:shp_
+uploadType:shp_
+uploadSource:basemap_200m_contour.zip_
+store:sey_msp_vector_
+upload:true_
+layername:basemap_200m_contour_
+style:generic"
+"id:basemap_archipelago_boxes","basemap archipelago boxes","basemap archipelago boxes","theme[General]:basemap archipelago boxes_
+theme[Area]:SWIO, Indian Ocean, océan Indien, Seychelles","owner:j.prosper@env.gov.sc_
+publisher:j.prosper@env.gov.sc_
+originator:j.prosper@env.gov.sc_
+pointOfContact:j.prosper@env.gov.sc_
+metadata:namik.scherzl@ird.fr","","dataset","eng","","","","thumbnail:thumbnail data@https://drive.ird.fr/apps/files_sharing/publicpreview/7FNMG5TP4reW9xW?x=1920&y=618&a=true&file=seychelles.png&scalingup=0_
+thumbnail:thumbnail data@https://drive.ird.fr/apps/files_sharing/publicpreview/ooDzWPi9DR2nYFd?x=1920&y=618&a=true&file=Seychelles2.png&scalingup=0","use:NA","statement:the data is distributed in shapefiles format. It is an extraction from a GBD database","access:default_
+source:basemap_archipelago_boxes.zip@/home/namik/Bureau/sey_msp_atlas_base_map_layers/basemap_archipelago_boxes.cpg_
+sourceType:shp_
+uploadType:shp_
+uploadSource:basemap_archipelago_boxes.zip_
+store:sey_msp_vector_
+upload:true_
+layername:basemap_archipelago_boxes_
+style:generic"
+"id:basemap_gazetteer","basemap gazetteer","basemap gazetteer","theme[General]:basemap gazetteer_
+theme[Area]:SWIO, Indian Ocean, océan Indien, Seychelles","owner:j.prosper@env.gov.sc_
+publisher:j.prosper@env.gov.sc_
+originator:j.prosper@env.gov.sc_
+pointOfContact:j.prosper@env.gov.sc_
+metadata:namik.scherzl@ird.fr","","dataset","eng","","","","thumbnail:thumbnail data@https://drive.ird.fr/apps/files_sharing/publicpreview/7FNMG5TP4reW9xW?x=1920&y=618&a=true&file=seychelles.png&scalingup=0_
+thumbnail:thumbnail data@https://drive.ird.fr/apps/files_sharing/publicpreview/ooDzWPi9DR2nYFd?x=1920&y=618&a=true&file=Seychelles2.png&scalingup=0","use:NA","statement:the data is distributed in shapefiles format. It is an extraction from a GBD database","access:default_
+source:basemap_gazetteer.zip@/home/namik/Bureau/sey_msp_atlas_base_map_layers/basemap_gazetteer.cpg_
+sourceType:shp_
+uploadType:shp_
+uploadSource:basemap_gazetteer.zip_
+store:sey_msp_vector_
+upload:true_
+layername:basemap_gazetteer_
+style:generic"
+"id:basemap_gazetteer(1)","basemap gazetteer(1)","basemap gazetteer(1)","theme[General]:basemap gazetteer(1)_
+theme[Area]:SWIO, Indian Ocean, océan Indien, Seychelles","owner:j.prosper@env.gov.sc_
+publisher:j.prosper@env.gov.sc_
+originator:j.prosper@env.gov.sc_
+pointOfContact:j.prosper@env.gov.sc_
+metadata:namik.scherzl@ird.fr","","dataset","eng","","","","thumbnail:thumbnail data@https://drive.ird.fr/apps/files_sharing/publicpreview/7FNMG5TP4reW9xW?x=1920&y=618&a=true&file=seychelles.png&scalingup=0_
+thumbnail:thumbnail data@https://drive.ird.fr/apps/files_sharing/publicpreview/ooDzWPi9DR2nYFd?x=1920&y=618&a=true&file=Seychelles2.png&scalingup=0","use:NA","statement:the data is distributed in shapefiles format. It is an extraction from a GBD database","access:default_
+source:basemap_gazetteer(1).shp@/home/namik/Bureau/sey_msp_atlas_base_map_layers/basemap_gazetteer(1).shp_
+sourceType:shp_
+uploadType:shp_
+uploadSource:basemap_gazetteer(1).zip_
+store:sey_msp_vector_
+upload:true_
+layername:basemap_gazetteer(1)_
+style:generic"
+"id:basemap_islands","basemap islands","basemap islands","theme[General]:basemap islands_
+theme[Area]:SWIO, Indian Ocean, océan Indien, Seychelles","owner:j.prosper@env.gov.sc_
+publisher:j.prosper@env.gov.sc_
+originator:j.prosper@env.gov.sc_
+pointOfContact:j.prosper@env.gov.sc_
+metadata:namik.scherzl@ird.fr","","dataset","eng","","","","thumbnail:thumbnail data@https://drive.ird.fr/apps/files_sharing/publicpreview/7FNMG5TP4reW9xW?x=1920&y=618&a=true&file=seychelles.png&scalingup=0_
+thumbnail:thumbnail data@https://drive.ird.fr/apps/files_sharing/publicpreview/ooDzWPi9DR2nYFd?x=1920&y=618&a=true&file=Seychelles2.png&scalingup=0","use:NA","statement:the data is distributed in shapefiles format. It is an extraction from a GBD database","access:default_
+source:basemap_islands.zip@/home/namik/Bureau/sey_msp_atlas_base_map_layers/basemap_islands.cpg_
+sourceType:shp_
+uploadType:shp_
+uploadSource:basemap_islands.zip_
+store:sey_msp_vector_
+upload:true_
+layername:basemap_islands_
+style:generic"
+"id:basemap_islands(1)","basemap islands(1)","basemap islands(1)","theme[General]:basemap islands(1)_
+theme[Area]:SWIO, Indian Ocean, océan Indien, Seychelles","owner:j.prosper@env.gov.sc_
+publisher:j.prosper@env.gov.sc_
+originator:j.prosper@env.gov.sc_
+pointOfContact:j.prosper@env.gov.sc_
+metadata:namik.scherzl@ird.fr","","dataset","eng","","","","thumbnail:thumbnail data@https://drive.ird.fr/apps/files_sharing/publicpreview/7FNMG5TP4reW9xW?x=1920&y=618&a=true&file=seychelles.png&scalingup=0_
+thumbnail:thumbnail data@https://drive.ird.fr/apps/files_sharing/publicpreview/ooDzWPi9DR2nYFd?x=1920&y=618&a=true&file=Seychelles2.png&scalingup=0","use:NA","statement:the data is distributed in shapefiles format. It is an extraction from a GBD database","access:default_
+source:basemap_islands(1).zip@/home/namik/Bureau/sey_msp_atlas_base_map_layers/basemap_islands(1).cpg_
+sourceType:shp_
+uploadType:shp_
+uploadSource:basemap_islands(1).zip_
+store:sey_msp_vector_
+upload:true_
+layername:basemap_islands(1)_
+style:generic"
+"id:basemap_rivers","basemap rivers","basemap rivers","theme[General]:basemap rivers_
+theme[Area]:SWIO, Indian Ocean, océan Indien, Seychelles","owner:j.prosper@env.gov.sc_
+publisher:j.prosper@env.gov.sc_
+originator:j.prosper@env.gov.sc_
+pointOfContact:j.prosper@env.gov.sc_
+metadata:namik.scherzl@ird.fr","","dataset","eng","","","","thumbnail:thumbnail data@https://drive.ird.fr/apps/files_sharing/publicpreview/7FNMG5TP4reW9xW?x=1920&y=618&a=true&file=seychelles.png&scalingup=0_
+thumbnail:thumbnail data@https://drive.ird.fr/apps/files_sharing/publicpreview/ooDzWPi9DR2nYFd?x=1920&y=618&a=true&file=Seychelles2.png&scalingup=0","use:NA","statement:the data is distributed in shapefiles format. It is an extraction from a GBD database","access:default_
+source:basemap_rivers.zip@/home/namik/Bureau/sey_msp_atlas_base_map_layers/basemap_rivers.cpg_
+sourceType:shp_
+uploadType:shp_
+uploadSource:basemap_rivers.zip_
+store:sey_msp_vector_
+upload:true_
+layername:basemap_rivers_
+style:generic"
+"id:basemap_rivers(1)","basemap rivers(1)","basemap rivers(1)","theme[General]:basemap rivers(1)_
+theme[Area]:SWIO, Indian Ocean, océan Indien, Seychelles","owner:j.prosper@env.gov.sc_
+publisher:j.prosper@env.gov.sc_
+originator:j.prosper@env.gov.sc_
+pointOfContact:j.prosper@env.gov.sc_
+metadata:namik.scherzl@ird.fr","","dataset","eng","","","","thumbnail:thumbnail data@https://drive.ird.fr/apps/files_sharing/publicpreview/7FNMG5TP4reW9xW?x=1920&y=618&a=true&file=seychelles.png&scalingup=0_
+thumbnail:thumbnail data@https://drive.ird.fr/apps/files_sharing/publicpreview/ooDzWPi9DR2nYFd?x=1920&y=618&a=true&file=Seychelles2.png&scalingup=0","use:NA","statement:the data is distributed in shapefiles format. It is an extraction from a GBD database","access:default_
+source:basemap_rivers(1).cpg@/home/namik/Bureau/sey_msp_atlas_base_map_layers/basemap_rivers(1).cpg_
+sourceType:shp_
+uploadType:shp_
+uploadSource:basemap_rivers(1).zip_
+store:sey_msp_vector_
+upload:true_
+layername:basemap_rivers(1)_
+style:generic"
+"id:boundaries_12nm_coast_buffer","boundaries 12nm coast buffer","boundaries 12nm coast buffer","theme[General]:boundaries 12nm coast buffer_
+theme[Area]:SWIO, Indian Ocean, océan Indien, Seychelles","owner:j.prosper@env.gov.sc_
+publisher:j.prosper@env.gov.sc_
+originator:j.prosper@env.gov.sc_
+pointOfContact:j.prosper@env.gov.sc_
+metadata:namik.scherzl@ird.fr","","dataset","eng","","","","thumbnail:thumbnail data@https://drive.ird.fr/apps/files_sharing/publicpreview/7FNMG5TP4reW9xW?x=1920&y=618&a=true&file=seychelles.png&scalingup=0_
+thumbnail:thumbnail data@https://drive.ird.fr/apps/files_sharing/publicpreview/ooDzWPi9DR2nYFd?x=1920&y=618&a=true&file=Seychelles2.png&scalingup=0","use:NA","statement:the data is distributed in shapefiles format. It is an extraction from a GBD database","access:default_
+source:boundaries_12nm_coast_buffer.zip@/home/namik/Bureau/sey_msp_atlas_base_map_layers/boundaries_12nm_coast_buffer.cpg_
+sourceType:shp_
+uploadType:shp_
+uploadSource:boundaries_12nm_coast_buffer.zip_
+store:sey_msp_vector_
+upload:true_
+layername:boundaries_12nm_coast_buffer_
+style:generic"
+"id:boundaries_eez","boundaries eez","boundaries eez","theme[General]:boundaries eez_
+theme[Area]:SWIO, Indian Ocean, océan Indien, Seychelles","owner:j.prosper@env.gov.sc_
+publisher:j.prosper@env.gov.sc_
+originator:j.prosper@env.gov.sc_
+pointOfContact:j.prosper@env.gov.sc_
+metadata:namik.scherzl@ird.fr","","dataset","eng","","","","thumbnail:thumbnail data@https://drive.ird.fr/apps/files_sharing/publicpreview/7FNMG5TP4reW9xW?x=1920&y=618&a=true&file=seychelles.png&scalingup=0_
+thumbnail:thumbnail data@https://drive.ird.fr/apps/files_sharing/publicpreview/ooDzWPi9DR2nYFd?x=1920&y=618&a=true&file=Seychelles2.png&scalingup=0","use:NA","statement:the data is distributed in shapefiles format. It is an extraction from a GBD database","access:default_
+source:boundaries_eez.zip@/home/namik/Bureau/sey_msp_atlas_base_map_layers/boundaries_eez.cpg_
+sourceType:shp_
+uploadType:shp_
+uploadSource:boundaries_eez.zip_
+store:sey_msp_vector_
+upload:true_
+layername:boundaries_eez_
+style:generic"
+"id:TXT","TXT","TXT","theme[General]:TXT_
+theme[Area]:SWIO, Indian Ocean, océan Indien, Seychelles","owner:j.prosper@env.gov.sc_
+publisher:j.prosper@env.gov.sc_
+originator:j.prosper@env.gov.sc_
+pointOfContact:j.prosper@env.gov.sc_
+metadata:namik.scherzl@ird.fr","","dataset","eng","","","","thumbnail:thumbnail data@https://drive.ird.fr/apps/files_sharing/publicpreview/7FNMG5TP4reW9xW?x=1920&y=618&a=true&file=seychelles.png&scalingup=0_
+thumbnail:thumbnail data@https://drive.ird.fr/apps/files_sharing/publicpreview/ooDzWPi9DR2nYFd?x=1920&y=618&a=true&file=Seychelles2.png&scalingup=0","use:NA","statement:the data is distributed in shapefiles format. It is an extraction from a GBD database","access:default_
+source:TXT.txt@/home/namik/Bureau/sey_msp_atlas_base_map_layers/test/TXT.txt_
+sourceType:shp_
+uploadType:shp_
+uploadSource:TXT.zip_
+store:sey_msp_vector_
+upload:true_
+layername:TXT_
+style:generic"
+"id:transportation_international_airport","transportation international airport","transportation international airport","theme[General]:transportation international airport_
+theme[Area]:SWIO, Indian Ocean, océan Indien, Seychelles","owner:j.prosper@env.gov.sc_
+publisher:j.prosper@env.gov.sc_
+originator:j.prosper@env.gov.sc_
+pointOfContact:j.prosper@env.gov.sc_
+metadata:namik.scherzl@ird.fr","","dataset","eng","","","","thumbnail:thumbnail data@https://drive.ird.fr/apps/files_sharing/publicpreview/7FNMG5TP4reW9xW?x=1920&y=618&a=true&file=seychelles.png&scalingup=0_
+thumbnail:thumbnail data@https://drive.ird.fr/apps/files_sharing/publicpreview/ooDzWPi9DR2nYFd?x=1920&y=618&a=true&file=Seychelles2.png&scalingup=0","use:NA","statement:the data is distributed in shapefiles format. It is an extraction from a GBD database","access:default_
+source:transportation_international_airport.zip@/home/namik/Bureau/sey_msp_atlas_base_map_layers/transportation_international_airport.cpg_
+sourceType:shp_
+uploadType:shp_
+uploadSource:transportation_international_airport.zip_
+store:sey_msp_vector_
+upload:true_
+layername:transportation_international_airport_
+style:generic"
+"id:transportation_roads","transportation roads","transportation roads","theme[General]:transportation roads_
+theme[Area]:SWIO, Indian Ocean, océan Indien, Seychelles","owner:j.prosper@env.gov.sc_
+publisher:j.prosper@env.gov.sc_
+originator:j.prosper@env.gov.sc_
+pointOfContact:j.prosper@env.gov.sc_
+metadata:namik.scherzl@ird.fr","","dataset","eng","","","","thumbnail:thumbnail data@https://drive.ird.fr/apps/files_sharing/publicpreview/7FNMG5TP4reW9xW?x=1920&y=618&a=true&file=seychelles.png&scalingup=0_
+thumbnail:thumbnail data@https://drive.ird.fr/apps/files_sharing/publicpreview/ooDzWPi9DR2nYFd?x=1920&y=618&a=true&file=Seychelles2.png&scalingup=0","use:NA","statement:the data is distributed in shapefiles format. It is an extraction from a GBD database","access:default_
+source:transportation_roads.zip@/home/namik/Bureau/sey_msp_atlas_base_map_layers/transportation_roads.cpg_
+sourceType:shp_
+uploadType:shp_
+uploadSource:transportation_roads.zip_
+store:sey_msp_vector_
+upload:true_
+layername:transportation_roads_
+style:generic"
