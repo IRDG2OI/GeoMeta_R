@@ -35,7 +35,8 @@ Before running the code, please ensure that you have correctly configured the fo
 
 -   `data_dir`: Set the directory path where your shapefiles are located. Update it according to your system.
 
-This Code was developed as part of the G2OI project, cofinanced by the European union, the Reunion region, and the French Republic.
+### Funding
+This Code was developed as part of the INTERREG V - G2OI project, cofinanced by the European union, the Reunion region, and the French Republic.
 
 <div  style="float:left;">
 	<img height=100  width=178  src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg">
