@@ -1,4 +1,8 @@
 ## Geometa_R : Package Description
+title: "Geometa_R"
+version: 2.0.4
+doi: 10.5281/zenodo.10027141
+date-released: 2023-10-20
 
 This package provides functionalities to generate a metadata Template in CSV format wich can be edited to add Description or other fields in order to feed an [Geoflow](https://github.com/r-geoflow/geoflow) worklflow.
 
