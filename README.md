@@ -21,11 +21,11 @@ Before running the code, please ensure that you have correctly configured the fo
 
 ### Data Cleaning
 
--   `generic_sub_str`: This is a list of strings that you want to remove from the data names. Customize it as per your requirements.
+-   `generic_sub_str`: This is a list of strings that you want to clean data names. 
 
 ### Geoserver Information
 
--   `datastore`: Specify the name of your Geoserver data store for vector or raster data.
+-   `datastore`: Specify the name of your Geoserver data store for vector or raster data (if you want to make a deposit on geoserver).
 
 ### Metadata Information
 
@@ -38,16 +38,8 @@ Before running the code, please ensure that you have correctly configured the fo
 ### Thumbnails and Theme Area
 
 -   `thumbnails`: This is a list of logos or thumbnails related to the organization. Customize it by adding the appropriate logo paths.
--   `theme_area`: Specify the theme area for the data, such as "SWIO, Indian Ocean, océan Indien."
+-   `theme_area`: Specify the theme area for the data, such as "SWIO, Indian Ocean, océan Indien"
 
 ### Data Location
 
 -   `data_dir`: Set the directory path where your shapefiles are located. Update it according to your system.
-
-## Process
-
-The code provided performs the following tasks:
-
-1.  It creates a dictionary of all file names and paths located in the specified `data_dir`.
-2.  It zips files that have the same name by using the `zip_files_with_occurence` function.
-3.  It creates a metadata CSV file by using the `create_metadata_csv` function. This function takes the file dictionary, zipped file names, metadata file name, metadata frame, datastore information, thumbnails, and theme area as input.
