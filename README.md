@@ -4,10 +4,12 @@ This package provides functionalities to generate a metadata Template in CSV for
 
 This code was produced as part of the G2OI project Co-financed by the European Union, the French State and the Réunion Region.
 
-<img height=50  width=100  src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg" hspace="10" >
-<img height=50  width=70 src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/Republique-francaise-logo.svg/512px-Republique-francaise-logo.svg.png?20201008150502" hspace="10" >
-<img height=50  width=100  src="https://upload.wikimedia.org/wikipedia/fr/3/3b/Logolareunion.png" hspace="10" >
-<br clear="left"/>
+<div  style="float:left;">
+	<img height=120  width=198  src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg">
+	<img  src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/Republique-francaise-logo.svg/512px-Republique-francaise-logo.svg.png?20201008150502"  height=120  width=140 >
+	<img  height=120  width=260  src="https://upload.wikimedia.org/wikipedia/fr/3/3b/Logolareunion.png">
+</div>
+<br>
 
 ## Variable Configuration
 
