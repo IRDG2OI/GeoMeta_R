@@ -1,0 +1,49 @@
+"Identifier","Title","Description","Subject","Creator","Date","Type","Language","SpatialCoverage","TemporalCoverage","Format","Relation","Rights","Provenance","Data"
+"id:monsoon-current","monsoon current","abstract:monsoon current","theme[General]:monsoon current_
+theme[Area]:SWIO, Indian Ocean, océan Indien","owner:put data owner email adress_
+publisher:put data publisher email adress_
+originator:put data originator email adress_
+pointOfContact:put point of contact email adress_
+metadata:put metadata author email adress","Creation: _
+Publication: _
+lastRevision:","dataset","eng","","","","thumbnail:thumbnail data@Put logo organisation","use:NA","statement:the data is distributed in shapefiles format. It is an extraction from a GBD database","access:default_
+source:monsoon_current.sld@/home/namik/workspace/geoflow_sey_env/SHAPEFILES/seymsp_atlas_oceanography/monsoon_current.sld_
+sourceType:shp_
+uploadType:shp_
+uploadSource:monsoon_current.zip_
+store:myDataStore_vector_
+upload:true_
+layername:monsoon_current_
+style:generic"
+"id:oceanography-northwest-monsoon-current-direction-and-magnitude","oceanography northwest monsoon current direction and magnitude","abstract:oceanography northwest monsoon current direction and magnitude","theme[General]:oceanography northwest monsoon current direction and magnitude_
+theme[Area]:SWIO, Indian Ocean, océan Indien","owner:put data owner email adress_
+publisher:put data publisher email adress_
+originator:put data originator email adress_
+pointOfContact:put point of contact email adress_
+metadata:put metadata author email adress","Creation: _
+Publication: _
+lastRevision:","dataset","eng","","","","thumbnail:thumbnail data@Put logo organisation","use:NA","statement:the data is distributed in shapefiles format. It is an extraction from a GBD database","access:default_
+source:oceanography_northwest_monsoon_current_direction_and_magnitude.zip@/home/namik/workspace/geoflow_sey_env/SHAPEFILES/seymsp_atlas_oceanography/oceanography_northwest_monsoon_current_direction_and_magnitude.zip_
+sourceType:shp_
+uploadType:shp_
+uploadSource:oceanography_northwest_monsoon_current_direction_and_magnitude.zip_
+store:myDataStore_vector_
+upload:true_
+layername:oceanography_northwest_monsoon_current_direction_and_magnitude_
+style:generic"
+"id:oceanography-southeast-monsoon-current-direction-and-magnitude","oceanography southeast monsoon current direction and magnitude","abstract:oceanography southeast monsoon current direction and magnitude","theme[General]:oceanography southeast monsoon current direction and magnitude_
+theme[Area]:SWIO, Indian Ocean, océan Indien","owner:put data owner email adress_
+publisher:put data publisher email adress_
+originator:put data originator email adress_
+pointOfContact:put point of contact email adress_
+metadata:put metadata author email adress","Creation: _
+Publication: _
+lastRevision:","dataset","eng","","","","thumbnail:thumbnail data@Put logo organisation","use:NA","statement:the data is distributed in shapefiles format. It is an extraction from a GBD database","access:default_
+source:oceanography_southeast_monsoon_current_direction_and_magnitude.zip@/home/namik/workspace/geoflow_sey_env/SHAPEFILES/seymsp_atlas_oceanography/oceanography_southeast_monsoon_current_direction_and_magnitude.zip_
+sourceType:shp_
+uploadType:shp_
+uploadSource:oceanography_southeast_monsoon_current_direction_and_magnitude.zip_
+store:myDataStore_vector_
+upload:true_
+layername:oceanography_southeast_monsoon_current_direction_and_magnitude_
+style:generic"

@@ -22,10 +22,10 @@ metadata_author <- "put metadata author email adress"
 
 # Thumbnail (logo)
 thumbnails <- list("Put logo organisation")
-theme_area <- "SWIO, Indian Ocean, océan Indien,"
+theme_area <- "SWIO, Indian Ocean, océan Indien"
 
 # Put data location
-data_dir <- "/home/namik/workspace/geoflow_sey_env/SHAPEFILES" 
+data_dir <- "/home/namik/workspace/geoflow_sey_env/SHAPEFILES/seymsp_atlas_oceanography" 
 
 
 #-------------------------[ Process]--------------------------
@@ -113,7 +113,9 @@ create_metadata_csv <- function(files, zipped_files, csv_file_name, df, datastor
             data <- paste0("access:default_\nsource:", basename(file),"@",file,"_\nsourceType:shp_\nuploadType:shp_\nuploadSource:",file_name ,".zip_\nstore:",datastore,"_\nupload:true_\nlayername:",file_name,"_\nstyle:generic")
           }
           file_name_with_space <-gsub("_"," ",file_name)
-          new_metadata_line <- data.frame(Identifier = paste0("id:", file_name), 
+          data_id <- gsub(" ", "-",file_name)
+          data_id <- gsub("_", "-", data_id)
+          new_metadata_line <- data.frame(Identifier = paste0("id:", data_id), 
                                           Title = file_name_with_space,
                                           Description = paste0("abstract:",file_name_with_space), 
                                           Subject = paste0("theme[General]:",file_name_with_space,"_\ntheme[Area]:",theme_area),
